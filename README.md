@@ -40,7 +40,7 @@ Follow these steps to install and set up the project:
    - Extract the external libraries from `cpp/external.zip` so that the `cpp` directory contains a folder called "external."
 
 5. **Install CUDA Toolkit 11.3:**
-   - Install [CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-downloads).
+   - Install [CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-toolkit-archive).
    - Check the installation guide [here](https://docs.nvidia.com/cuda/archive/11.3.0/cuda-installation-guide-microsoft-windows/index.html).
 
 6. **Build SMLMLib:**
